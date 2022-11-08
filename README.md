@@ -30,7 +30,7 @@
 ---
 ## 🏅 프로젝트 목표
 #### 1. 추상적 요약 결과 ROUGE-Score 0.3 이상 달성하기 🟩    
-
+#### 2. <a href="https://bejewled-roll-712.notion.site/3-1d0df2d63705479dabd40a4214d82417"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>
 ---
 ## 🗓️ 프로젝트 진행 일정
 
