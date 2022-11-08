@@ -1,5 +1,3 @@
-# MiniAiffelthon
-
 
 # Project AIFFELTHON
 
