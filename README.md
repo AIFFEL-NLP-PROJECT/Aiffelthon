@@ -45,7 +45,7 @@
 
 ---
 ## 🦄 프로젝트를 위한 자료
-#### [1. 데이터셋(AI Hub)]([https://nhiss.nhis.or.kr/bd/ab/bdabf003cv.do](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=582))
+#### [1. 데이터셋(AI Hub)](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=582)
 #### [2. 논문 자료 바로가기]()
 #### [3. 노션 페이지 바로가기](https://bejewled-roll-712.notion.site/3-1d0df2d63705479dabd40a4214d82417) 
 #### 4. 
@@ -58,7 +58,7 @@
 |02|Modeling(1) - LMkor|[📂]()|손기락|
 |03|Modeling(2) - KoBART|[📂](https://github.com/jx-dohwan/poc/blob/main/koBART_Modelling_20per_2.ipynb)|고도환|
 |04|Modeling(3) - KoGPT-2|[📂](https://github.com/summer-2022/aiffel/blob/master/AIFFELTHON/koGPT2.ipynb)|최지원|
-|05|논문 내용 정리|[📂]())|김동영|
+|05|논문 내용 정리|[📂]()|김동영|
 
 
 ---
