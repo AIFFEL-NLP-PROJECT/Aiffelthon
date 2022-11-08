@@ -12,7 +12,7 @@
 2️⃣ 데이터셋 : AI Hub : 요약문 및 레포트 생성 데이터 (https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=582)
 3️⃣ 컬럼 : Input(원문), Summary1(1줄 요약), Summary2(3줄 요약), Summary3(20% 요약)
 4️⃣ 모델 : KoBART, LMkor, KoGPT-2  
-5️⃣ 간단 설명 : 스쳐지나가는 많은 정보에서 내가 필요한 정보를 볼 때 요약하여 빠르게 습득하는 것을 도와주는 앱
+5️⃣ 간단 설명 : 스쳐지나가는 많은 정보에서 내가 필요한 정보를 요약하여 빠르게 습득하는 것을 도와주는 콘텐츠
 ```
 
 
