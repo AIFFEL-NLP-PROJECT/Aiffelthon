@@ -4,7 +4,7 @@
 # Project AIFFELTHON
 
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white"> <a href="https://bejewled-roll-712.notion.site/3-1d0df2d63705479dabd40a4214d82417"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white", link='></a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white"> <a href="https://bejewled-roll-712.notion.site/3-1d0df2d63705479dabd40a4214d82417"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>
 
 ## 💡프로젝트 소개
 ```
