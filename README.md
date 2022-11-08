@@ -59,7 +59,7 @@
 |---|---|---|---|
 |01|EDA 및 전처리|[📂]()|손기락|
 |02|Modeling(1) - LMkor|[📂]()|손기락|
-|03|Modeling(2) - KoBART|[📂]()|고도환|
+|03|Modeling(2) - KoBART|[📂](https://github.com/jx-dohwan/poc/blob/main/koBART_Modelling_20per_2.ipynb)|고도환|
 |04|Modeling(3) - KoGPT-2|[📂](https://github.com/summer-2022/aiffel/blob/master/AIFFELTHON/koGPT2.ipynb)|최지원|
 |05|논문 내용 정리|[📂]())|김동영|
 
