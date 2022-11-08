@@ -52,7 +52,7 @@
 ## 📑 프로젝트 진행 과정
 |No|내용|깃허브|관리대표|
 |---|---|---|---|
-|01|EDA 및 전처리|[📂]()|손기락|
+|01|EDA 및 전처리|[📂](https://github.com/AIFFEL-NLP-PROJECT/MiniAiffelthon/blob/main/EDA/EDA_result.ipynb)|손기락|
 |02|Modeling(1) - LMkor|[📂](https://github.com/AIFFEL-NLP-PROJECT/MiniAiffelthon/blob/main/Model/LMkor(Bertshaerd)/LMKor.ipynb)|손기락|
 |03|Modeling(2) - KoBART|[📂](https://github.com/jx-dohwan/poc/blob/main/koBART_Modelling_20per_2.ipynb)|고도환|
 |04|Modeling(3) - KoGPT-2|[📂](https://github.com/summer-2022/aiffel/blob/master/AIFFELTHON/koGPT2.ipynb)|최지원|
