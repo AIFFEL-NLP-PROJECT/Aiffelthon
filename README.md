@@ -8,7 +8,7 @@
 ```
 1️⃣ 주제 : 추상 요약을 사용한 대화문 요약 AI
 2️⃣ 데이터셋 : AI Hub : 한국어 대화 데이터 (https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=117)
-3️⃣ 컬럼 : Input(원문), Summary1(1줄 요약), Summary2(3줄 요약), Summary3(20% 요약)
+3️⃣ 컬럼 : Text(원문), Summary(대화 요약)
 4️⃣ 모델 : KoBART, KoGPT-2  
 5️⃣ 간단 설명 : 채팅 속 일상 대화 및 기록된 구어체 문장을 아이템에 입력하면 생성 요약한 간결한 문장을 제공
 ```
