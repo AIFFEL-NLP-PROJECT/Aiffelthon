@@ -53,8 +53,8 @@
 |No|내용|깃허브|관리대표|
 |---|---|---|---|
 |01|EDA 및 전처리|[📂](https://github.com/AIFFEL-NLP-PROJECT/MiniAiffelthon/blob/main/EDA/EDA_result.ipynb)|손기락|
-|02|Modeling(2) - KoBART|[📂](https://github.com/jx-dohwan/poc/blob/main/koBART_Modelling_20per_2.ipynb)|고도환|
-|03|Modeling(3) - KoGPT-2|[📂](https://github.com/summer-2022/aiffel/blob/master/AIFFELTHON/koGPT2.ipynb)|최지원|
+|02|Modeling(1) - KoBART|[📂](https://github.com/jx-dohwan/poc/blob/main/koBART_Modelling_20per_2.ipynb)|고도환|
+|03|Modeling(2) - KoGPT-2|[📂](https://github.com/summer-2022/aiffel/blob/master/AIFFELTHON/koGPT2.ipynb)|최지원, 손기락|
 |04|논문 내용 정리|[📂](https://github.com/dong-young943)|김동영|
 
 
