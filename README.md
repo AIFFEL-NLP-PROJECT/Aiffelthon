@@ -6,11 +6,11 @@
 
 ## 💡프로젝트 소개
 ```
-1️⃣ 주제 : 일반 상식 추상적 요약 
-2️⃣ 데이터셋 : AI Hub : 요약문 및 레포트 생성 데이터 (https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=582)
+1️⃣ 주제 : 추상 요약을 사용한 대화문 요약 AI
+2️⃣ 데이터셋 : AI Hub : 한국어 대화 데이터 (https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=117)
 3️⃣ 컬럼 : Input(원문), Summary1(1줄 요약), Summary2(3줄 요약), Summary3(20% 요약)
-4️⃣ 모델 : KoBART, LMkor, KoGPT-2  
-5️⃣ 간단 설명 : 스쳐지나가는 많은 정보에서 내가 필요한 정보를 요약하여 빠르게 습득하는 것을 도와주는 콘텐츠
+4️⃣ 모델 : KoBART, KoGPT-2  
+5️⃣ 간단 설명 : 채팅 속 일상 대화 및 기록된 구어체 문장을 아이템에 입력하면 생성 요약한 간결한 문장을 제공
 ```
 
 
@@ -43,7 +43,7 @@
 
 ---
 ## 🦄 프로젝트를 위한 자료
-#### [1. 데이터셋(AI Hub)](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=582)
+#### [1. 데이터셋(AI Hub)](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=117)
 #### [2. 논문 자료 바로가기]()
 #### [3. 노션 페이지 바로가기](https://bejewled-roll-712.notion.site/3-1d0df2d63705479dabd40a4214d82417) 
 #### 4. 
@@ -53,10 +53,9 @@
 |No|내용|깃허브|관리대표|
 |---|---|---|---|
 |01|EDA 및 전처리|[📂](https://github.com/AIFFEL-NLP-PROJECT/MiniAiffelthon/blob/main/EDA/EDA_result.ipynb)|손기락|
-|02|Modeling(1) - LMkor|[📂](https://github.com/AIFFEL-NLP-PROJECT/MiniAiffelthon/blob/main/Model/LMkor(Bertshaerd)/LMKor.ipynb)|손기락|
-|03|Modeling(2) - KoBART|[📂](https://github.com/jx-dohwan/poc/blob/main/koBART_Modelling_20per_2.ipynb)|고도환|
-|04|Modeling(3) - KoGPT-2|[📂](https://github.com/summer-2022/aiffel/blob/master/AIFFELTHON/koGPT2.ipynb)|최지원|
-|05|논문 내용 정리|[📂](https://github.com/dong-young943)|김동영|
+|02|Modeling(2) - KoBART|[📂](https://github.com/jx-dohwan/poc/blob/main/koBART_Modelling_20per_2.ipynb)|고도환|
+|03|Modeling(3) - KoGPT-2|[📂](https://github.com/summer-2022/aiffel/blob/master/AIFFELTHON/koGPT2.ipynb)|최지원|
+|04|논문 내용 정리|[📂](https://github.com/dong-young943)|김동영|
 
 
 ---
