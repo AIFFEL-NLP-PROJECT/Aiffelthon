@@ -22,7 +22,7 @@
 |손기락|고도환|김동영|최지원|
 |---|---|---|---|
 ||||
-|- 팀장 </br>- Modeling(KoGPT-2) </br>- EDA 및 전처리|- PM </br>- Modeling(KoBART) </br>- 과업 정리|- 자료 조사 </br>|- 과업 정리 </br>- Modeling(KoGPT-2)|
+|- 팀장 </br>- Modeling(KoGPT-2) </br>- EDA 및 전처리|- PM </br>- Modeling(KoBART) </br>|- 자료 조사 </br>- 과업 정리|- 과업 정리 </br>- Modeling(KoGPT-2)|
 |||||
 
 ---
