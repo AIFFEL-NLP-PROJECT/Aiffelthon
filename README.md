@@ -46,7 +46,7 @@
 #### [1. 데이터셋(AI Hub)](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=117)
 #### [2. 논문 자료 바로가기](https://bejewled-roll-712.notion.site/5325673955d84493b83ccd31e044d6b3)
 #### [3. 노션 페이지 바로가기](https://bejewled-roll-712.notion.site/3-1d0df2d63705479dabd40a4214d82417) 
-#### [4. 학습 보충 자료]([https://bejewled-roll-712.notion.site/3-1d0df2d63705479dabd40a4214d82417](https://bejewled-roll-712.notion.site/StudyWithUs-97d1570c7863469eb37a9c405798376b)) 
+#### [4. 학습 보충 자료](https://bejewled-roll-712.notion.site/StudyWithUs-97d1570c7863469eb37a9c405798376b)
 
 ---
 ## 📑 프로젝트 진행 과정
@@ -56,7 +56,6 @@
 |02|Modeling(1) - KoBART|[📂](https://github.com/jx-dohwan/poc/blob/main/koBART_Modelling_20per_2.ipynb)|고도환|
 |03|Modeling(2) - KoGPT-2|[📂](https://github.com/summer-2022/aiffel/blob/master/AIFFELTHON/koGPT2.ipynb)|최지원, 손기락|
 |04|논문 내용 정리|[📂](https://bejewled-roll-712.notion.site/5325673955d84493b83ccd31e044d6b3)|최지원|
-|05||[📂](https://bejewled-roll-712.notion.site/5325673955d84493b83ccd31e044d6b3)|최지원|
 
 ---
 ## 🏆 프로젝트 결과(영상) 
