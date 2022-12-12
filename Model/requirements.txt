@@ -1,0 +1,14 @@
+torch==1.10.0
+rouge_score
+datasets
+transformers==4.24.0
+transformer-utils
+packaging
+wandb
+pandas
+datasets
+numpy
+matplotlib
+dataclasses
+tqdm
+rouge
