@@ -60,10 +60,9 @@
 ## 🏆 프로젝트 결과(Rouge-Score)
 |Model|KoGPT-2|KoBART|
 |---|---|---|
-|Recall|||
-|Precision|||
-|F1-Score|||
+|Recall|0.1873||
+|Precision|0.2543||
+|F1-Score|0.2078||
 
 ---
-## 🏆 프로젝트 결과(영상) 
-✅ [전체코드 보러가기]()   
+## 🏆 프로젝트 결과(영상)    
