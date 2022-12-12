@@ -13,7 +13,6 @@
 5️⃣ 간단 설명 : 채팅 속 일상 대화 및 기록된 구어체 문장을 아이템에 입력하면 생성 요약한 간결한 문장을 제공
 ```
 
-
 ---
 ## 팀 소개
 
@@ -52,10 +51,18 @@
 ## 📑 프로젝트 진행 과정
 |No|내용|깃허브|관리대표|
 |---|---|---|---|
-|01|EDA 및 전처리|[📂](https://github.com/AIFFEL-NLP-PROJECT/MiniAiffelthon/blob/main/EDA/EDA_result.ipynb)|손기락|
-|02|Modeling(1) - KoBART|[📂](https://github.com/jx-dohwan/poc/blob/main/koBART_Modelling_20per_2.ipynb)|고도환|
-|03|Modeling(2) - KoGPT-2|[📂](https://github.com/summer-2022/aiffel/blob/master/AIFFELTHON/koGPT2.ipynb)|최지원, 손기락|
+|01|EDA 및 전처리|[📂](https://github.com/AIFFEL-NLP-PROJECT/Aiffelthon/tree/main/Data_EDA)|손기락|
+|02|Modeling(1) - KoBART|[📂](https://github.com/AIFFEL-NLP-PROJECT/Aiffelthon/tree/main/Model/KoBART)|고도환|
+|03|Modeling(2) - KoGPT-2|[📂](https://github.com/AIFFEL-NLP-PROJECT/Aiffelthon/tree/main/Model/KoGPT-2)|최지원, 손기락|
 |04|논문 내용 정리|[📂](https://bejewled-roll-712.notion.site/5325673955d84493b83ccd31e044d6b3)|최지원|
+
+---
+## 🏆 프로젝트 결과(Rouge-Score)
+|Model|KoGPT-2|KoBART|
+|Rouge-L|
+|Recall|||
+|Precision|||
+|F1-Score|||
 
 ---
 ## 🏆 프로젝트 결과(영상) 
