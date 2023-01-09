@@ -66,4 +66,4 @@
 
 ---
 ## 🏆 프로젝트 결과(영상)    
-[![Video Label](https://www.youtube.com/watch?v=NF_89j3lo1I/0.jpg)](https://youtu.be/'NF_89j3lo1I')
+[![Video Label](http://img.youtube.com/vi/NF_89j3lo1I/0.jpg)](https://youtu.be/NF_89j3lo1I)
